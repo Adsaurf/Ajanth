@@ -1,7 +1,7 @@
 {
   "name": "ADSAURF",
   "short_name": "ADSAURF",
-  "description": "ADSAURF - Your Innovative Solutions Partner",
+  "description": "ADSAURF website",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
