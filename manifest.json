@@ -1,11 +1,11 @@
 {
-  "name": "Adsaurf",
-  "short_name": "Adsaurf",
+  "name": "ADSAURF",
+  "short_name": "ADSAURF",
+  "description": "ADSAURF - Your Innovative Solutions Partner",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FFFFFF",
+  "background_color": "#ffffff",
   "theme_color": "#000000",
-  "description": "Welcome to Adsaurf, your one-stop online store.",
   "icons": [
     {
       "src": "https://github.com/Adsaurf/Ajanth/blob/main/icon.png",
