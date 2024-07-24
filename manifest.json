@@ -1,7 +1,7 @@
 {
   "name": "ADSAURF",
   "short_name": "ADSAURF",
-  "description": "ADSAURF website",
+  "description": "ADSAURF - Your go-to platform for amazing ads!",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
